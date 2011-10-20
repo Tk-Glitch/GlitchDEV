@@ -1278,8 +1278,8 @@ static const int touch_keypad_code[] = {
 	0
 #else
 	KEY_MENU,
-	KEY_HOME,
 	KEY_BACK,
+	KEY_HOME,
 	KEY_SEARCH
 #endif
 };
